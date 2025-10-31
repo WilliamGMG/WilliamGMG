@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @WilliamGMG
 ## 🌱 I’m currently learning / using
-- 🚀 Next.js & Tailwind CSS for frontend development
+- 🚀 Next.js / Node.js / Prisma / PostgreSQL for full stack development.
 - 🤖 Machine Learning & PyTorch for AI and deep learning
 
 ## 📫 How to reach me
@@ -19,10 +19,13 @@ Languages:
 Developer Tools: 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Libraries/Frameworks: 
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Catch22](https://img.shields.io/badge/Catch22-%23007ACC.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
