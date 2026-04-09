@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @WilliamGMG
 ## 🌱 I’m currently learning / using
 - 🚀 Next.js / Node.js / Prisma / PostgreSQL for full stack development.
-- 🤖 Machine Learning & PyTorch for AI and deep learning
+- 🤖 Machine Learning & Numpy for AI and machine learning
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-glynn-05a736348/)
@@ -29,3 +29,4 @@ Libraries/Frameworks:
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Catch22](https://img.shields.io/badge/Catch22-%23007ACC.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
