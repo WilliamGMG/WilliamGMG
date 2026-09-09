@@ -1,4 +1,13 @@
 # 👋 Hi, I’m @WilliamGMG
+
+##🚀 Featured Project
+
+### [Red2Green — Full-Stack Stock Portfolio Tracker](https://red2green.vercel.app/)
+
+Served as Product Owner on a four-person Scrum team, helping lead frontend development and product direction for a deployed full-stack stock portfolio tracking application.
+
+**Live Website:** https://red2green.vercel.app
+
 ## 🌱 I’m currently learning / using
 - 🚀 Next.js / Node.js / Prisma / PostgreSQL for full stack development.
 - 🤖 Machine Learning & Numpy for AI and machine learning
