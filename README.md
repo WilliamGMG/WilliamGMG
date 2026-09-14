@@ -2,7 +2,7 @@
 
 ##🚀 Featured Project
 
-### [Red2Green — Full-Stack Stock Portfolio Tracker](https://red2green.vercel.app/)
+### [Red2Green — Full-Stack Stock Portfolio Tracker](https://github.com/UFRed2Green/Red2Green)
 
 Served as Product Owner on a four-person Scrum team, helping lead frontend development and product direction for a deployed full-stack stock portfolio tracking application.
 
