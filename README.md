@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @WilliamGMG
 
-##🚀 Featured Project
+## 🚀 Featured Project
 
 ### [Red2Green — Full-Stack Stock Portfolio Tracker](https://github.com/UFRed2Green/Red2Green)
 
